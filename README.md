@@ -1,16 +1,16 @@
 <div align="center">
-<h3>Hi there 👋,</h3>
+<h3>Assalamualaikum Warohmatullahi Wabarakatu 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm Irfan Ali, I'm a Fullstack Web Developer. Check <a href="#">ℹ️</a> For More Information.</p>
+<p>Hi, I'm Irfan Ali, I'm a Web Developer. Check <a href="#">ℹ️</a> For More Information.</p>
 
 [![](https://img.shields.io/badge/-irfan-lie92-black?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/irfan-lie92)
 </div>
 
-### I'm Fullstack Web Developer
+### I'm Web Developer
 
 - 🔭 I’m currently working at Pemerintah Desa Pasayangan, Perpustakaan Jendela Dunia, LKP Les Privat Digital and PT. UMKM Alamanah Solution
-- 🌱 I’m currently learning react, next, go
-- 💬 Ask me about PHP native, codeigniter, laravel
+- 🌱 I’m currently learning about technology
+- 💬 Ask me about PHP native, codeigniter, Python
 - 📫 How to reach me: connect with my social media
 - 😄 Fun fact: I like mountaineering ⛰️
 
@@ -43,5 +43,5 @@
 </a>
 
 <p align="center">
- <img src="https://irfan.desapasayangan.my.id" alt="profile_views"/>
+ <img src="https://irfan.desapasayangan.my.id/images/irfan.png" alt="profile_views"/>
 </p>
