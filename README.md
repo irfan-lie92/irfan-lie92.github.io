@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning about technology
 - 💬 Ask me about PHP native, codeigniter, Python
 - 📫 How to reach me: connect with my social media
-- 😄 Fun fact: I like mountaineering ⛰️
+- 😄 Fun fact: I like Reading and Writing ⛰️
 
 #### Languages:
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
