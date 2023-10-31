@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+body {
+  background-color : #cccccc;
+background-size:cover; 
+background-attachment: fixed;
+}
+
+.wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #d0bbe5;
+  padding: 35px 15px 15px;
+  border-radius: 5px;
+}
+
+.wrapper:before {
+  content: "";
+  position: absolute;
+  top: 11px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 13px;
+  background: #b696d7;
+  border-radius: 50px;
+}
+
+.wrapper:after {
+  content: "";
+  position: absolute;
+  /* top position adjusted */
+  top: -265px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  /* height adjusted */
+  height: 285px;
+  background: #353535;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.125);
+}
+
+.card {
+  width: 280px;
+  height: 560px;
+  background: #fff;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+  border-radius: 5px;
+}
+
+.card img {
+  width: 70%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.card .info {
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  left: 0;
+  padding: 10px;
+  background: #353535;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.card p {
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-weight: 600;
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+}
+
+.profile-username {
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-family: inherit;
+  color: #353535 !important;
+}
+
+.text-muted {
+  color: #6c757d !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+/* add selecter to this class to adjust multipage cards */
+.page-wrapper {
+  position: relative;
+  height: 90vh;
+}
+
+/*untuk layar device berukuran kecil*/
+@media screen and (min-width: 450px) {
+   .light_blue, .green {
+       width: 50%
+   }
+}
+ 
+/*untuk layar device berukuran sedang*/
+@media screen and (min-width: 550px) {
+   .red {
+       width: 33%;
+   }
+ 
+   .orange {
+       width: 67%;
+   }
+}
+ 
+/*untuk layar device berukuran besar*/
+@media screen and (min-width: 800px) {
+   .container {
+       width: 800px;
+       margin-left: auto;
+       margin-right: auto;
+   }
+}
+
